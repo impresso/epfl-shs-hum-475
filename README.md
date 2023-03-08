@@ -1,4 +1,4 @@
-# EPFL SHS HUM475 2021-2022
+# EPFL SHS HUM475 
 
 A few instructions to start working with _impresso_ data exports in the context of the HUM-475 class.
 
@@ -6,7 +6,7 @@ A few instructions to start working with _impresso_ data exports in the context 
 
 Noto is the EPFL’s JupyterLab centralized platform for education which allows teachers and students to use Jupyter notebooks online without having to install anything on their computer.
 
-- clone this repository `git clone https://github.com/impresso/epfl-shs-class-2021-2022.git`
+- clone this repository `git clone https://github.com/impresso/epfl-shs-hum-475.git`
 - go to [https://noto.epfl.ch/](https://noto.epfl.ch/) and login with your gaspar credentials.
 - upload the example notebook and your data.
 
