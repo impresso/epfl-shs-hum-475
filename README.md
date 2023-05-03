@@ -53,3 +53,20 @@ Contribution from previous years' groups who developed a script to process the d
 - Projet sur l'OPEP: [scripts](https://github.com/RPetitpierre/letemps_archive_opep), [rapport](https://wp.unil.ch/histoireparlesdonnees/de-la-creation-de-lopep-a-son-role-durant-la-deuxieme-crise-petroliere-le-point-de-vue-des-quotidiens-bourgeois-romands/).
 - Projet sur le secret bancaire: [scripts](https://github.com/RomainMendez/Digital-Humanities-Project), [rapport](https://wp.unil.ch/histoireparlesdonnees/le-secret-bancaire-suisse-au-xxe-siecle-dans-le-journal-de-geneve-et-la-gazette-de-lausanne/).
 - Projet sur la relation americano-soviétique: [scripts](https://github.com/AAA97AAA/Gorbi/blob/master/finalV2.ipynb), [rapport](https://wp.unil.ch/histoireparlesdonnees/de-la-relation-americano-sovietique-de-1981-a-1991/).
+
+
+#### Si problèmes avec librairies R
+
+Ouvrir R et installer manuellement les librairies suivantes:
+
+```
+install.packages('ca')
+install.packages('textometry')
+install.packages('irlba')
+install.packages('wordcloud')
+install.packages('proxy')
+install.packages('igraph')
+install.packages('ape')
+install.packages('gee')
+install.packages('rgl')
+```
